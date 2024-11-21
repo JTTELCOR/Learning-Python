@@ -12,7 +12,7 @@ I will add additional projects to this repo as I complete them.
 
 
 ## Contributing
-[Read]()
+[Read](Contribution Guidelines.md)
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.

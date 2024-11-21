@@ -10,9 +10,11 @@ Here are the Python projects I have completed so far:
 
 I will add additional projects to this repo as I complete them.
 
+## Code of Conduct
+[Please Read](Code_of_Conduct.md)
 
 ## Contributing
-[Read](Contribution Guidelines.md)
+[Read](Contribution_Guidelines.md)
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.

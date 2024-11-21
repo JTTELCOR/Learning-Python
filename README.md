@@ -9,3 +9,16 @@ Here are the Python projects I have completed so far:
 * **[Hello World](my-first-repo/hello_world)**, a basic Python program that prints text.
 
 I will add additional projects to this repo as I complete them.
+
+
+## Contributing
+[Read]()
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[License](LICENSE.md)
+
